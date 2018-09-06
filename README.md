@@ -13,3 +13,4 @@ You should get the following real-time dashboard as output. It will be continual
 ## Authors
 
 * **Antoine Sueur**
+* **Ilyass El Mansouri**
